@@ -27,7 +27,7 @@ Baseline, F1 Score, black box, ablation, diagnostic, extrinsic/intrinsic, perfor
 - Think critically about ethical and responsible evaluation
 
 ## Format
-There will be weekly in person meetings for short lectures and group discussions. The material (pre-recorded talks, reading list and worksheets) will be available asynchronously, so that students with special time constraints can still follow the course. Notice that, although you may not come to the meetings, the group discussions are a core component in this course.
+There will be weekly in person meetings for short lectures and group discussions. The material (slides, reading list and worksheets) will be available asynchronously, so that students with special time constraints can still follow the course. Notice that, although you may not come to the meetings, the group discussions are a core component in this course and the lectures will not be recorded.
 
 The course will be divided into two parts. In the first half of the semester, we'll learn about the evaluation methods in general machine learning. At the beginning of each week, I will post a reading list with the week's content. You go over it anytime before our official slot and fill in the documentation. In our official slot, I'll give a short lecture about the week's topic, we'll discuss your questions together and them you will discuss the week's worksheet in small groups. After the meeting, you have to submit your answers on Moodle.
 
