@@ -38,13 +38,14 @@ The course will be taught in English, but you can present, discuss and submit yo
 **Please, check the guidelines and the schedule for more details.** Note that this page is meant only to present the course, but we'll use Moodle for everything else (submissions, announcements, question forums etc), so **please enrol in the Moodle course page**.
 
 ## Background
-Everyone is welcome to take this class, but you will profit more if you are already familiar with some NLP tasks and methods. Some knowledge of Python (= PRS + preferably PRO1) is needed for the programming assignments. If you are in doubt, contact me :)
+Everyone is welcome to take this class, but you will profit more if you are already familiar with some NLP tasks and methods (e.g. CLT). Some knowledge of Python (e.g. PRS + ongoing PRO1) is needed for the programming assignments. If you are in doubt, contact me :)
 
 ## Requirements and grading policy
 To pass the course, you need to abide by the guidelines listed [here](https://briemadu.github.io/evalNLP-22/guidelines) and fulfill two ungraded requirements: 
-- active participation in the course (weekly documentation, weekly worksheets and programming assignments) [minimum of 60% valid submissions of documentations and worksheets +  2 mandatory assignments]
+- active participation in the course (weekly documentation, weekly worksheets and programming assignments) [minimum of 60% of valid documentation submission, minimum of 60% of valid worksheet submissions + 2 mandatory assignments]
 - presentation [at least 60% of the total points]
-To pass the module, you need hand in a graded final project.
+
+To pass the module, you need to hand in and pass a graded final project.
 
 ## Contact
 Feel free to write me if you have any question or suggestion, or if you have any special needs (e.g. accessibility or name preference). I hope to see you soon! :wink:
