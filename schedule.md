@@ -14,7 +14,7 @@ navigation_weight: 3
 | 2 |26.10.2022 | Introduction | 
 | 3 |02.11.2022 | Paradigms | 
 | 4 |09.11.2022 | Common procedures |
-| 5 |16.11.2022 | Annotation | 
+| 5 |16.11.2022 | Data & Annotation | 
 | 6 |23.11.2022 | Metrics & Measurements | 
 | 7 |30.11.2022 | Statistical significance testing  |
 | 8 |07.12.2022 | Ethics and Good practices |
